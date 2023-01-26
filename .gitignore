@@ -1,0 +1,4 @@
+/target
+
+# Default name of blockchain storage file
+block.chain
